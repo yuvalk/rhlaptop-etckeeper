@@ -1,0 +1,37 @@
+# Static table lookup for hostnames.
+# See hosts(5) for details.
+
+10.35.4.108     kup
+10.46.97.97	ykdevboxold
+10.1.105.175	ykdevbox
+
+10.19.16.1	cnfdb0
+#10.19.16.50	cnfdc1
+10.6.105.38	cnfdc1
+10.19.16.53	cnfdc4
+10.6.106.1	cnfdd1
+10.46.97.1	cnfdt01
+10.46.97.2	cnfdt02
+10.46.97.3	cnfdt03
+10.19.232.132	fci1hv
+10.8.34.21	hv3
+10.1.104.1	cnfdr1
+10.1.104.2	cnfdr2
+10.1.104.3	cnfdr3
+10.1.98.68	cnfdr30
+
+192.168.17.2	cnfdu0
+
+10.1.98.189	api.ykipsec415.192-168-123-253.sslip.io console-openshift-console.apps.ykipsec415.192-168-123-253.sslip.io oauth-openshift.apps.ykipsec415.192-168-123-253.sslip.io prometheus-k8s-openshift-monitoring.apps.ykipsec415.192-168-123-253.sslip.io
+10.1.98.173	console-openshift-console.apps.ykjackob-sno.karmalabs.corp api.ykjackob-sno.karmalabs.corp oauth-openshift.apps.ykjackob-sno.karmalabs.corp
+10.1.98.184 api.ykcertmgr.karmalabs.corp console-openshift-console.apps.ykcertmgr.karmalabs.corp oauth-openshift.apps.ykcertmgr.karmalabs.corp prometheus-k8s-openshift-monitoring.apps.ykcertmgr.karmalabs.corp
+192.168.26.90	api.r208-lenovo-sno2.r208.lab.eng.cert.redhat.com
+192.168.19.80	api.cncs.nokia.cncs.com
+192.168.24.79  api.abi.hubcluster-1.lab.eng.cert.redhat.com
+10.1.105.49 api.ykhub.yk.rh console-openshift-console.apps.ykhub.yk.rh oauth-openshift.apps.ykhub.yk.rh prometheus-k8s-openshift-monitoring.apps.ykhub.yk.rh central-rhacs-operator.apps.ykhub.yk.rh longhorn.apps.loki.h00pz.co central.stackrox
+10.1.105.120	api.ykj414.karmalabs.corp console-openshift-console.apps.ykj414.karmalabs.corp oauth-openshift.apps.ykj414.karmalabs.corp
+10.1.105.210	console-openshift-console.apps.ykrhoai.karmalabs.corp oauth-openshift.apps.ykrhoai.karmalabs.corp
+
+66.187.232.76	ovpn-rdu2.redhat.com
+
+10.1.105.219   api.ykzerotrust.192-168-125-253.sslip.io console-openshift-console.apps.ykzerotrust.192-168-125-253.sslip.io oauth-openshift.apps.ykzerotrust.192-168-125-253.sslip.io hub-gitops-server-layered-zero-trust-hub.apps.ykzerotrust.192-168-125-253.sslip.io openshift-gitops-server-openshift-gitops.apps.ykzerotrust.192-168-125-253.sslip.io vault-vault.apps.ykzerotrust.192-168-125-253.sslip.io keycloak-ingress-keycloak-system.apps.ykzerotrust.192-168-125-253.sslip.io

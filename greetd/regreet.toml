@@ -1,0 +1,22 @@
+[commands]
+reboot = [ "systemctl", "reboot" ]
+poweroff = [ "systemctl", "poweroff" ]
+
+[widget.clock]
+format = "%a %H:%M"
+resolution = "500ms"
+
+[GTK]
+application_prefer_dark_theme = true
+
+# Cursor theme name
+cursor_theme_name = "Adwaita"
+
+# Font name and size
+font_name = "Cantarell 16"
+
+# Icon theme name
+icon_theme_name = "Adwaita"
+
+# GTK theme name
+theme_name = "Adwaita"
