@@ -29,6 +29,7 @@
         "sway/language",
         "battery",
         "battery#bat2",
+        "clock#2",
         "clock",
         "tray",
         "custom/power"
@@ -110,17 +111,16 @@
         "spacing": 10
     },
     "clock": {
-        "timezones": [
-		"America/New_York",
-		"Asia/Jerusalem"
-	],
 	//"tooltip-format": "{tz_list}",
-        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+       	"tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
         "format-alt": "{:%Y-%m-%d}",
-	"actions": {
-		"on-scroll-down": "tz_down",
-		"on-scroll-up": "tz_up"
-	}
+       	"timezone": "America/New_York"
+    },
+    "clock#2": {
+	//"tooltip-format": "{tz_list}",
+       	"tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "format-alt": "{:%Y-%m-%d}",
+       	"timezone": "Asia/Jerusalem"
     },
     "cpu": {
         "format": "{usage}% ",
