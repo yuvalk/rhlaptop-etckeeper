@@ -21,7 +21,7 @@ disk:x:995:
 input:x:994:
 kmem:x:993:
 kvm:x:992:libvirt-qemu,qemu
-lp:x:991:
+lp:x:991:cups
 optical:x:990:
 render:x:989:
 sgx:x:988:
@@ -61,3 +61,4 @@ libvirt:x:963:yuval
 libvirt-qemu:x:962:
 qemu:x:961:yuval
 dnsmasq:x:960:
+cups:x:209:yuval

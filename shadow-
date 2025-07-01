@@ -17,7 +17,6 @@ uuidd:!*:20241:::::1:
 alpm:!*:20241::::::
 polkitd:!*:20241::::::
 yuval:$y$j9T$hX8tci7Fndwrsm8MGiK4L0$IYVQtde5YCIu8Y7fJsq4N6HClWD82eji5R2RujlbfO3:20242:0:99999:7:::
-avahi:!*:20243::::::
 git:!*:20244::::::
 openvpn:!*:20245:::::1:
 fwupd:!*:20245:::::1:
@@ -27,4 +26,3 @@ greeter:!*:20246::::::
 libvirt-qemu:!*:20248:::::1:
 qemu:!*:20248::::::
 dnsmasq:!*:20248:::::1:
-cups:!*:20259:::::1:
