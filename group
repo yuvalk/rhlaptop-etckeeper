@@ -23,12 +23,12 @@ kmem:x:993:
 kvm:x:992:libvirt-qemu,qemu
 lp:x:991:cups
 optical:x:990:
-render:x:989:
+render:x:989:yuval
 sgx:x:988:
 storage:x:987:
 tty:x:5:
 uucp:x:986:
-video:x:985:greeter
+video:x:985:greeter,yuval
 users:x:984:
 groups:x:983:
 systemd-journal:x:982:
