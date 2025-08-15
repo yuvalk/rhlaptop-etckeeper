@@ -33,6 +33,6 @@
 10.1.105.120	api.ykj414.karmalabs.corp console-openshift-console.apps.ykj414.karmalabs.corp oauth-openshift.apps.ykj414.karmalabs.corp
 10.1.105.210	console-openshift-console.apps.ykrhoai.karmalabs.corp oauth-openshift.apps.ykrhoai.karmalabs.corp
 
-66.187.232.76	ovpn-rdu2.redhat.com
+#66.187.232.76	ovpn-rdu2.redhat.com
 
 10.1.105.219   api.ykzerotrust.192-168-125-253.sslip.io console-openshift-console.apps.ykzerotrust.192-168-125-253.sslip.io oauth-openshift.apps.ykzerotrust.192-168-125-253.sslip.io hub-gitops-server-layered-zero-trust-hub.apps.ykzerotrust.192-168-125-253.sslip.io openshift-gitops-server-openshift-gitops.apps.ykzerotrust.192-168-125-253.sslip.io vault-vault.apps.ykzerotrust.192-168-125-253.sslip.io keycloak-ingress-keycloak-system.apps.ykzerotrust.192-168-125-253.sslip.io
