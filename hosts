@@ -36,3 +36,5 @@
 #66.187.232.76	ovpn-rdu2.redhat.com
 
 10.1.105.219   api.ykzerotrust.192-168-125-253.sslip.io console-openshift-console.apps.ykzerotrust.192-168-125-253.sslip.io oauth-openshift.apps.ykzerotrust.192-168-125-253.sslip.io hub-gitops-server-layered-zero-trust-hub.apps.ykzerotrust.192-168-125-253.sslip.io openshift-gitops-server-openshift-gitops.apps.ykzerotrust.192-168-125-253.sslip.io vault-vault.apps.ykzerotrust.192-168-125-253.sslip.io keycloak-ingress-keycloak-system.apps.ykzerotrust.192-168-125-253.sslip.io
+
+10.1.98.155   api.josh-ocp.192-168-122-253.sslip.io console-openshift-console.apps.josh-ocp.192-168-122-253.sslip.io oauth-openshift.apps.josh-ocp.192-168-122-253.sslip.io hub-gitops-server-layered-zero-trust-hub.apps.josh-ocp.192-168-122-253.sslip.io openshift-gitops-server-openshift-gitops.apps.josh-ocp.192-168-122-253.sslip.io vault-vault.apps.josh-ocp.192-168-122-253.sslip.io keycloak-ingress-keycloak-system.apps.josh-ocp.192-168-122-253.sslip.io
