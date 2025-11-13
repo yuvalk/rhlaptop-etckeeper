@@ -1,0 +1,2 @@
+ACTION=="add", SUBSYSTEM=="usb", ENV{ID_PATH}=="pci-0000:00:14.0-usb-0:3.4.4.4", RUN+="/usr/local/bin/dock-notify.sh connected"
+ACTION=="remove", SUBSYSTEM=="usb", ENV{ID_PATH}=="pci-0000:00:14.0-usb-0:3.4.4.4", RUN+="/usr/local/bin/dock-notify.sh disconnected"
