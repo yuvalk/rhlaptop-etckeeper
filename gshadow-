@@ -64,3 +64,4 @@ dnsmasq:!*::
 cups:!*::
 _talkd:!*::
 named:!*::
+clock:!*::

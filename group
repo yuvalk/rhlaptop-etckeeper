@@ -65,3 +65,4 @@ cups:x:209:yuval
 _talkd:x:959:
 named:x:40:
 clock:x:958:
+usbmux:x:140:
