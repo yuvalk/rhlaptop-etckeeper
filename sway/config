@@ -226,3 +226,6 @@ bindsym $mod+r mode "resize"
 exec waybar
 
 include /etc/sway/config.d/*
+
+output DP-1 subpixel rgb
+output eDP-1 subpixel rgb
