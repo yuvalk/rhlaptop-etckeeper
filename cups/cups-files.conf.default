@@ -22,6 +22,9 @@ Group 209
 SystemGroup sys root wheel
 
 
+# Are Unix domain socket peer credentials used for authorization?
+PeerCred on
+
 # User that is substituted for unauthenticated (remote) root accesses...
 #RemoteRoot remroot
 
