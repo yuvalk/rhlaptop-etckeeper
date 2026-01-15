@@ -20,7 +20,7 @@
         "idle_inhibitor",
         "wireplumber",
         "network",
-        "power-profiles-daemon",
+        //"power-profiles-daemon",
         "cpu",
         "memory",
         "temperature",
@@ -31,8 +31,8 @@
         "battery#bat2",
         "clock#2",
         "clock",
-        "tray",
-        "custom/power"
+        "tray"
+        //"custom/power"
     ],
     // Modules configuration
     // "sway/workspaces": {
