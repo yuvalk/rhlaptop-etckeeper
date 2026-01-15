@@ -18,7 +18,7 @@ wheel:x:998:yuval
 utmp:x:997:
 audio:x:996:
 disk:x:995:
-input:x:994:
+input:x:994:yuval
 kmem:x:993:
 kvm:x:992:libvirt-qemu,qemu
 lp:x:991:cups
@@ -66,3 +66,4 @@ _talkd:x:959:
 named:x:40:
 clock:x:958:
 usbmux:x:140:
+pcscd:x:957:
