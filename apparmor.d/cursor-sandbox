@@ -1,0 +1,39 @@
+profile cursor_sandbox /usr/share/cursor/resources/app/resources/helpers/cursorsandbox {
+  file,
+  /** ix,
+
+  capability sys_admin,
+  capability chown,
+  capability setuid,
+  capability setgid,
+  capability setpcap,
+
+  userns,
+
+  mount,
+  remount,
+  umount,
+
+  # Allow binary execution and mapping
+  /usr/share/cursor/resources/app/resources/helpers/cursorsandbox mr,
+}
+
+profile cursor_sandbox_remote /home/*/.cursor-server/bin/*/*/resources/helpers/{cursor-sandbox,cursorsandbox} {
+  file,
+  /** ix,
+
+  capability sys_admin,
+  capability chown,
+  capability setuid,
+  capability setgid,
+  capability setpcap,
+
+  userns,
+
+  mount,
+  remount,
+  umount,
+
+  # Allow binary execution and mapping
+  /home/*/.cursor-server/bin/*/*/resources/helpers/{cursor-sandbox,cursorsandbox} mr,
+}
