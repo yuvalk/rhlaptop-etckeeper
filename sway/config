@@ -86,6 +86,7 @@ input type:pointer {
     # Change normal to inverse to use left mouse button for resizing and right
     # mouse button for dragging.
     floating_modifier $mod normal
+    mouse_warping none
 
     # Reload the configuration file
     bindsym $mod+Shift+c reload
