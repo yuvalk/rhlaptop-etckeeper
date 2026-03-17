@@ -8091,6 +8091,7 @@ roce             4791/udp
 unified-bus      4792/tcp
 unified-bus      4792/udp
 uet              4793/udp
+veroce           4794/udp
 iims             4800/tcp
 iims             4800/udp
 iwec             4801/tcp
